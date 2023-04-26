@@ -1,0 +1,4 @@
+#Wed Apr 26 02:32:23 CDT 2023
+base.0=/Users/marcocastaneda/Documents/Disruptive/prueba_tecnica/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
