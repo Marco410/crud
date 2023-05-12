@@ -1,7 +1,7 @@
-# Prueba Técnica Disruptive Studio
+# CRUD
 # Marco Castañeda
 
-<em> Prueba Técnica </em>
+<em> CRUD </em>
 
 Aplicación hecha para iOS y Android con Flutter. 📱 🤖
 - Flutter 3.0.0
